@@ -22,7 +22,7 @@ The data for this project comes from this original source: http://groupware.les.
 
 Please Note that I the code I use loads the data directly from the URL provided, so that you are not required to download the file to your environment. Please customize the code to your specific needs.
 
-##Reproduceablity
+##Reproducibility
 In order to reproduce the same results, you need a certain set of packages, as well as setting a pseudo random seed equal to the one I used. *Note:To install, for instance, the caret package in R, run this command: install.packages("caret")
 
 The following Libraries were used for this project, which you should install - if not done yet - and load on your working environment.
